@@ -1,0 +1,35 @@
+body {
+    background-image: url("Bg.jpeg");
+    background-position: center;
+    background-size: cover;
+}
+
+#heading {
+font-weight: bold;
+font-family: 'Stick No Bills', sans-serif;
+letter-spacing: 2px;
+} 
+
+hr {
+    background-color: grey;
+}
+
+p {
+font-size: 18px;
+}
+
+.copy_right_footer {
+    position: fixed;
+    color: white;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(159, 87, 226);
+    line-height: 3;
+    text-align: center;
+}
+
+canvas {
+    border: 5px solid black;
+    border-radius: 25px;
+    box-shadow:5px 5px 5px darkgray;
+}
